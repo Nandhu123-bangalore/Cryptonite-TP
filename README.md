@@ -1,5 +1,6 @@
-# Cryptonite-TP
-# Webpage on how NGOS become the saviours of the victims in harsh situations
+Cryptonite-TP
+Webpage on how NGOS become the saviors of the victims in harsh situations
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,11 +46,10 @@
     <ol>
         <li><b><h3>Assam Floods:</h3></b></li>
         <p>
-            The Assam Floods of 2022 led the people to believe they were caught in turmoil. These floods were quite devastating. Heavy rains made the Brahmaputra river overflow resulting in the sweeping away of not only crops but also animals, homes, and people. On getting informed about this, Nirmaan collaborated with local organizations and volunteers to help and assist with the situation. They launched the "India Floods Relief Project - Operation Sahaaya 7.0" and raised over 61+ Lakh to help the affected. They have also distributed Back-to-Home Relief Kits, costing Rs. 1800 each to 1000 underprivileged families that included mosquito repellents, medicines, ration, hygiene items, etc. This has helped the affected with their monthly needs and basic supplies.
+            The Assam Floods of 2022 led the people to believe they were caught in turmoil. These floods were quite devastating. Heavy rains made the Brahmaputra river overflow resulting in the sweeping away of not only crops but also animals, homes, and people. On getting informed about this, Nirmaan collaborated with local organizations and volunteers to help and assist with the situation. They launched the "India Floods Relief Project - Operation Sahaaya 7.0" and raised over 61+ Lakh to help the affected. They have also distributed Back-to-Home Relief Kits, costing Rs. 1800 each to 1000 underprivileged families, including mosquito repellents, medicines, ration, hygiene items, etc. This has helped the affected with their monthly needs and basic supplies.
         </p>
         <img src="https://th-i.thgim.com/public/incoming/vi5lun/article65557565.ece/alternates/LANDSCAPE_1200/Assam%20floods%20Silchar.jpg" height="250" width="400">
-        <div>----------------------------------------------------------------------------------------------------------------------------------------------------------------------</div>
-
+       
         <li><b><h3>Covid-19:</h3></b></li>
         <p>
             The second wave of Covid-19 caused widespread damage, putting a lot of pressure on healthcare workers and resources. There weren't enough frontline workers or oxygen, and more ICU beds were needed. To help, HYSEA and Nirmaan Organization worked together. HYSEA got help from companies like Microsoft and Qualcomm, raising 18 crores. Nirmaan found seven hospitals in urgent need and provided ventilators, beds, and oxygen cylinders. This teamwork showed how working together can solve big problems during emergencies. It proved that when businesses and non-profit group organizations cooperate, they can make a real difference in emergencies.
