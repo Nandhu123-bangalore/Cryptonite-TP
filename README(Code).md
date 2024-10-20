@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Main Website</title>
+    Main Website
 </head>
 <body>
    <div id="navbar">
