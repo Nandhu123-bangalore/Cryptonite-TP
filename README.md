@@ -1,9 +1,8 @@
-
-### Introduction to HTML
+Introduction to HTML
 
 HTML (HyperText Markup Language) is the standard language for creating web pages. It structures content on the web, allowing browsers to render text, images, videos, and other multimedia. Understanding HTML is essential for anyone interested in web development, as it forms the backbone of web content.
 
-### 1. Structure of an HTML Document
+1. Structure of an HTML Document
 
 An HTML document has a basic structure that consists of various elements. Here's a simple example:
 
@@ -22,32 +21,32 @@ An HTML document has a basic structure that consists of various elements. Here's
 </html>
 ```
 
-**Key Components:**
+Key Components:
 - `<!DOCTYPE html>`: Declaration that defines the document type and version of HTML.
 - `<html>`: The root element of an HTML page.
 - `<head>`: Contains meta-information about the document, like its title and character set.
 - `<body>`: Contains the content that will be displayed on the web page.
 
-### 2. HTML Elements and Tags
+2. HTML Elements and Tags
 
 HTML is made up of elements, which are defined by tags. Most tags come in pairs: an opening tag and a closing tag.
 
-**Example:**
+Example:
 ```html
 <p>This is a paragraph.</p>
 ```
 - `<p>` is the opening tag, and `</p>` is the closing tag.
 
-**Self-Closing Tags:**
+Self-Closing Tags:
 Some elements don’t require a closing tag. For example:
 ```html
 <img src="image.jpg" alt="A description of the image">
 ```
 Here, the `<img>` tag is self-closing.
 
-### 3. Common HTML Tags
+3. Common HTML Tags
 
-- **Headings:**
+- Headings:
   HTML has six levels of headings, from `<h1>` to `<h6>`. `<h1>` is the highest level, typically used for the main title.
   
   ```html
@@ -55,28 +54,28 @@ Here, the `<img>` tag is self-closing.
   <h2>Subheading</h2>
   ```
 
-- **Paragraphs:**
+- Paragraphs:
   Use the `<p>` tag for paragraphs.
   
   ```html
   <p>This is a paragraph.</p>
   ```
 
-- **Links:**
+- Links:
   Create hyperlinks with the `<a>` tag.
   
   ```html
   <a href="https://www.example.com">Visit Example</a>
   ```
 
-- **Images:**
+- Images:
   Use the `<img>` tag to embed images.
   
   ```html
   <img src="image.jpg" alt="Description">
   ```
 
-- **Lists:**
+- Lists:
   HTML supports ordered lists (`<ol>`) and unordered lists (`<ul>`).
   
   ```html
@@ -86,22 +85,22 @@ Here, the `<img>` tag is self-closing.
   </ul>
   ```
 
-### 4. Attributes
+4. Attributes
 
 HTML tags can have attributes, which provide additional information about the element. Attributes are always specified in the opening tag.
 
-**Example:**
+Example:
 ```html
 <a href="https://www.example.com" target="_blank">Open in new tab</a>
 ```
 - `href`: The URL the link points to.
 - `target`: Specifies where to open the linked document.
 
-### 5. Semantic HTML
+5. Semantic HTML
 
 Semantic HTML uses HTML markup to reinforce the meaning of the content. It helps search engines and browsers understand the structure and context of the page.
 
-**Examples:**
+Examples:
 - `<header>`: Represents introductory content.
 - `<nav>`: Contains navigation links.
 - `<article>`: Represents independent content.
@@ -109,11 +108,11 @@ Semantic HTML uses HTML markup to reinforce the meaning of the content. It helps
 
 Using semantic tags improves accessibility and SEO.
 
-### 6. Forms
+6. Forms
 
 HTML forms are essential for collecting user input. They can include various input types.
 
-**Example of a Basic Form:**
+Example of a Basic Form:
 ```html
 <form action="/submit" method="post">
     <label for="name">Name:</label>
@@ -126,16 +125,14 @@ HTML forms are essential for collecting user input. They can include various inp
 </form>
 ```
 
-**Key Attributes:**
+Key Attributes:
 - `action`: The URL to send form data to.
 - `method`: The HTTP method to use (GET or POST).
 - `<input>` types: Various input types like `text`, `email`, `password`, etc.
 
-### 7. Multimedia Elements
+7. Multimedia Elements
 
-HTML5 introduced new elements for embedding multimedia.
-
-- **Audio:**
+- Audio:
   ```html
   <audio controls>
       <source src="audio.mp3" type="audio/mpeg">
@@ -143,7 +140,7 @@ HTML5 introduced new elements for embedding multimedia.
   </audio>
   ```
 
-- **Video:**
+- Video:
   ```html
   <video width="320" height="240" controls>
       <source src="movie.mp4" type="video/mp4">
@@ -151,7 +148,7 @@ HTML5 introduced new elements for embedding multimedia.
   </video>
   ```
 
-### Conclusion
+Conclusion
 
 HTML is a powerful tool for creating web content. Mastering its basics lays the foundation for more advanced web development, including CSS for styling and JavaScript for interactivity. By understanding and using HTML effectively, you can create well-structured, accessible, and responsive web pages.
 
