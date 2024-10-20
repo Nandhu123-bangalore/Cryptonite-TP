@@ -151,37 +151,6 @@ HTML5 introduced new elements for embedding multimedia.
   </video>
   ```
 
-### 8. Styling with CSS
-
-HTML and CSS (Cascading Style Sheets) are often used together. CSS is used to control the layout and appearance of HTML elements.
-
-**Example:**
-```html
-<style>
-    body {
-        font-family: Arial, sans-serif;
-    }
-    h1 {
-        color: blue;
-    }
-</style>
-```
-
-This can be placed within the `<head>` section to style your HTML elements.
-
-### 9. Responsive Design
-
-To create responsive web pages that look good on all devices, you can use CSS frameworks (like Bootstrap) or media queries. Media queries adjust styles based on device characteristics, such as width.
-
-```css
-@media (max-width: 600px) {
-    body {
-        background-color: lightblue;
-    }
-}
-```
-
-
 ### Conclusion
 
 HTML is a powerful tool for creating web content. Mastering its basics lays the foundation for more advanced web development, including CSS for styling and JavaScript for interactivity. By understanding and using HTML effectively, you can create well-structured, accessible, and responsive web pages.
