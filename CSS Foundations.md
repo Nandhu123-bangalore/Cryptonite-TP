@@ -1,4 +1,4 @@
-Introduction to CSS:
+**Introduction to CSS:**
 
 Cascading Style Sheets (CSS) are used to style HTML documents. It allows developers to apply styles, such as colors, fonts, and layouts, separately from the HTML content, improving maintainability and flexibility. 
 Example:
@@ -16,6 +16,7 @@ Example:
 </body>
 </html>
 
+styles.css
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -29,28 +30,23 @@ p {
     color: #666;
 }
 
-The Cascade
+**The Cascade**
 
 The cascade defines how CSS rules are applied when multiple styles affect the same element. It involves three key principles: importance, specificity, and source order.
-
-Example:
-
 /* styles.css */
 p {
     color: blue; /* Basic style */
 }
-
 .special {
     color: red !important; /* High importance */
 }
-
 #unique {
     color: green; /* Higher specificity */
 }
 <p class="special" id="unique">This text will be red due to !important.</p>
 <p>This text will be blue.</p>
 
-Inspecting HTML and CSS
+**Inspecting HTML and CSS**
 
 Browser Developer Tools allow inspection of HTML and CSS. By right-clicking on an element and selecting "Inspect," you can view and modify styles live.
 Example:
@@ -66,7 +62,7 @@ CSS:
 }
 In the Developer Tools, you can see how changes to `.box` affect its appearance in real-time.
 
-The Box Model
+**The Box Model**
 
 The CSS Box Model represents how elements are structured on a webpage. Each element consists of content, padding, border, and margin.
 Example:
@@ -85,10 +81,9 @@ In this example, the total width of the box is calculated as follows:
 - Total Width = width (300px) + padding (20px * 2) + border (5px * 2) = 350px
 - Total Height = height of content + padding + border
 
-Block and Inline Elements
+**Block and Inline Elements**
 
 HTML elements are classified as block or inline based on their layout behavior.
-
 Block Elements:
 <div class="block">
     <h1>Block Element</h1>
@@ -111,5 +106,5 @@ CSS:
 }
 Inline elements occupy only the width necessary and do not disrupt the flow of surrounding content.
 
-Conclusion
+**Conclusion**
 CSS is a vital part of web development, providing the tools to style and layout web pages effectively. Understanding the cascade helps manage how styles are applied, while familiarity with the box model aids in creating well-structured layouts. By distinguishing between block and inline elements, developers can achieve precise control over content presentation. Using browser tools to inspect and manipulate styles enhances the development process, allowing for real-time adjustments and debugging.
