@@ -1,4 +1,3 @@
-Certainly! Here’s an expanded overview of CSS concepts, complete with code examples to illustrate each point.
 
 ### Intro to CSS
 
